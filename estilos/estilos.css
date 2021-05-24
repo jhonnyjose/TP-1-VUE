@@ -1,0 +1,22 @@
+[v-cloak] {
+    display: none;
+}
+
+.error{
+    color: red;
+}
+
+.enviado{
+    color: green;
+}
+
+.bg-img{
+    background-image: url("../imgs/hotel.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+    height:100vh;
+
+}
